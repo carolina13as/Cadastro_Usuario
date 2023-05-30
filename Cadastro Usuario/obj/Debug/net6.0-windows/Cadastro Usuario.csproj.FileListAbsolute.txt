@@ -1,0 +1,18 @@
+E:\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.exe
+E:\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.deps.json
+E:\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.runtimeconfig.json
+E:\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.dll
+E:\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\ref\Cadastro Usuario.dll
+E:\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.pdb
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.csproj.AssemblyReference.cache
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro_Usuario.Form1.resources
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.csproj.GenerateResource.cache
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.AssemblyInfoInputs.cache
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.AssemblyInfo.cs
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.csproj.CoreCompileInputs.cache
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.dll
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\ref\Cadastro Usuario.dll
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.pdb
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.genruntimeconfig.cache
+E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro_Usuario.Properties.Resources.resources
