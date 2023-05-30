@@ -16,3 +16,21 @@ E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\ref\Cadastro U
 E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.pdb
 E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.genruntimeconfig.cache
 E:\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro_Usuario.Properties.Resources.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.deps.json
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.dll
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\bin\Debug\net6.0-windows\Cadastro Usuario.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro_Usuario.Form1.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro_Usuario.Properties.Resources.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.csproj.GenerateResource.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.dll
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\refint\Cadastro Usuario.dll
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\Cadastro Usuario.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Cadastro Usuario\Cadastro Usuario\obj\Debug\net6.0-windows\ref\Cadastro Usuario.dll

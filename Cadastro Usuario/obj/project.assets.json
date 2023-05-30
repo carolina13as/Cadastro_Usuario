@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Po2\\Cadastro Usuario\\Cadastro Usuario\\Cadastro Usuario.csproj",
+      "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Documentos\\ifro\\tarefas do 2º\\Po2\\Cadastro Usuario\\Cadastro Usuario\\Cadastro Usuario.csproj",
       "projectName": "Cadastro Usuario",
-      "projectPath": "E:\\Po2\\Cadastro Usuario\\Cadastro Usuario\\Cadastro Usuario.csproj",
+      "projectPath": "C:\\Users\\carol\\OneDrive\\Documentos\\ifro\\tarefas do 2º\\Po2\\Cadastro Usuario\\Cadastro Usuario\\Cadastro Usuario.csproj",
       "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-      "outputPath": "E:\\Po2\\Cadastro Usuario\\Cadastro Usuario\\obj\\",
+      "outputPath": "C:\\Users\\carol\\OneDrive\\Documentos\\ifro\\tarefas do 2º\\Po2\\Cadastro Usuario\\Cadastro Usuario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
